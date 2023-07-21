@@ -13,9 +13,12 @@ development and technology such as coding, research, and competitive programming
 ### Tech Stack
 <img align="left" alt="fllutter" title="flutter" width="21px" src="https://www.pinpng.com/pngs/m/144-1442282_recently-i-published-a-story-on-recreating-the.png" />
 <img align="left" alt="kotlin" title="kotlin" width="42px" src="https://logo-download.com/wp-content/data/images/svg/Kotlin-logo.svg" />
+<img align="left" alt="react" title="react" width="42px" src="https://github.com/ocin-effendy/ocin-effendy/assets/78718700/bf58d9a2-ae39-4ef0-b5c5-965f71017e06" />
 <img align="left" alt="js" title="js" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" />
 <img align="left" alt="nodeJs" title="nodeJs" width="26px" src="https://w7.pngwing.com/pngs/452/24/png-transparent-js-logo-node-logos-and-brands-icon.png" />
 <img align="left" alt="kotlin" title="kotlin" width="36px" src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" />
+
+
 <br />
 <br />
 
