@@ -1,12 +1,12 @@
 ## Hi 👋 I'm Nico
 
-Experienced in mobile apps developer, especially in multiplatform app. I am currently continuing my 6th
+Experienced in mobile apps developer. I am currently continuing my 7th
 semester of Informatics majoring at the University of Muhammadiyah Malang and have a passion for
 development and technology such as coding, research, and competitive programming.
 
 
-- 🔭 I’m currently study on bangkit academy 2023
-- 🌱 I’m currently learning android developer
+- 🔭 I’m graduate on bangkit academy 2023
+- 🌱 I’m currently learning react native
 - 💬 Feel free to ask me about mobile apps or project
 - 📫 How to reach me: nikoardia134@gmail.com
 
