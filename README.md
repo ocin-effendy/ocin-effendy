@@ -1,8 +1,11 @@
 ## Hi 👋 I'm Nico
 
-Experienced in mobile apps developer. I am currently continuing my 7th
-semester of Informatics majoring at the University of Muhammadiyah Malang and have a passion for
-development and technology such as coding, research, and competitive programming.
+Experienced in mobile developer. I am working on building a mobile application using futter and kotlin framework. I have a
+solid understanding of algorithms and data structures. I apply the design pattern for the best solution of the application structure.
+I can contribute in solving error bugs, building mobile applications with architectural patterns, implementing solid
+programming, and I also know about UX design. I am also have passionate about software management from requirements
+gathering to project delivery, I have expertise in various aspects of software management, including system design,
+programming, and testing
 
 
 - 🔭 I’m graduate on bangkit academy 2023
