@@ -1,6 +1,6 @@
 ## Hi 👋 I'm Nico
 
-Experienced in mobile developer. I am working on building a mobile application using futter and kotlin framework. I have a
+Experienced in mobile developer. I am working on building a mobile application using FLUTTER and KOTLIN framework. I have a
 solid understanding of algorithms and data structures. I apply the design pattern for the best solution of the application structure.
 I can contribute in solving error bugs, building mobile applications with architectural patterns, implementing solid
 programming, and I also know about UX design. I am also have passionate about software management from requirements
